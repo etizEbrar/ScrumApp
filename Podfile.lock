@@ -1,0 +1,30 @@
+PODS:
+  - Bolts/Tasks (1.9.1)
+  - Eureka (5.4.0)
+  - FSCalendar (2.8.4)
+  - Parse (1.19.4):
+    - Parse/Core (= 1.19.4)
+  - Parse/Core (1.19.4):
+    - Bolts/Tasks (= 1.9.1)
+
+DEPENDENCIES:
+  - Eureka
+  - FSCalendar
+  - Parse
+
+SPEC REPOS:
+  trunk:
+    - Bolts
+    - Eureka
+    - FSCalendar
+    - Parse
+
+SPEC CHECKSUMS:
+  Bolts: 8c1e8aab2f603387b8b9924f57d1d64f43d3ffdc
+  Eureka: fadaa9fa3d6e402d3c60f78f24edf3d7bafc9c29
+  FSCalendar: 2d1d0d9398f12d439f55c1fe0f01525b151b8260
+  Parse: 6d572042e2c171414c677acabcd9bab7bbf51264
+
+PODFILE CHECKSUM: 2fb58b4de19a2348527b7e348ec7e5fd1add8f45
+
+COCOAPODS: 1.12.0
